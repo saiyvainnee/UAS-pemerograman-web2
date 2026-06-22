@@ -1,0 +1,1 @@
+<?= $this->include('template/admin_header') ?><h2><?= $title ?></h2><ul><?php foreach($users as $u): ?><li><?= esc($u['username']) ?> - <?= esc($u['useremail']) ?></li><?php endforeach; ?></ul><?= $this->include('template/admin_footer') ?>

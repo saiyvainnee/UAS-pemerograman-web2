@@ -1,0 +1,1 @@
+<?= $this->include('template/header') ?><h1><?= $title ?></h1><p><?= $content ?></p><p>Menu publik menampilkan artikel. Menu admin digunakan untuk CRUD artikel, upload gambar, pencarian, pagination, dan relasi kategori.</p><?= $this->include('template/footer') ?>
