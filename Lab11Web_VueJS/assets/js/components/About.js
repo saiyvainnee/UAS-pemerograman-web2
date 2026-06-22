@@ -1,0 +1,1 @@
+const About = { template: `<div class="home-container"><h2>Profil Mahasiswa</h2><p><b>Nama:</b> Sayidina Ramadhan</p><p><b>NIM:</b> 312410112</p><p><b>Kelas:</b> TI.24.A1</p><div class="avatar">SR</div></div>` };
